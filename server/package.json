@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "nodemon app"
+    "server": "nodemon app"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +15,7 @@
     "express-graphql": "^0.12.0",
     "graphql": "^15.5.0",
     "lodash": "^4.17.20",
+    "mongoose": "^5.11.17",
     "nodemon": "^2.0.7"
   }
 }
